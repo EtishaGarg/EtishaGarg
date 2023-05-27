@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EtishaGarg
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently exploring the depth of web3 space
+- 🌱 I’m currently exploring the depth of web space
 - 📫 How to reach me : gargetisha@gmail.com
 
 <!---
