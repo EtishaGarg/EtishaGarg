@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Etisha Garg</h1>
+<h1 align="center">👋Hi, I'm Etisha Garg</h1>
 <h3 align="center">A passionate developer from India, who is enthusiastic about Web Developement and Open-source</h3>
 
 <p align="center">
