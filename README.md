@@ -31,7 +31,7 @@
 
 ### If you appreciate the work I do, do consider supporting me. Thank you!
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/EtishaaGarg)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/EtishaaGarg{:target="_blank"}
 
 
 <!---
