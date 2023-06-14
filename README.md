@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi, I'm Etisha Garg</h1>
-<h3 align="center">A passionate developer from India, who is enthusiastic about Web Developement and Open-source</h3>
+<h3 align="center">A web developer, open-source enthusiast and a passionate content creator from India</h3>
 
 <p align="center">
   <a href="https://twitter.com/GargEtisha">
