@@ -12,6 +12,13 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UC5mnBodB73bR88fLXHSfzYA?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Etisha Garg's YouTube channel"/>
   </a>
 </p>
+
+### Latest YouTube videos
+
+<table>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://youtu.be/vmABD38bITY"><img width="140px" src="https://drive.google.com/file/d/16FcYVi66t2VBbI26oBa4trg9SCWkY10d/view?usp=sharing"></a></td>
+<td><a href="https://youtu.be/vmABD38bITY">Git and GitHub Beginners Tutorial</a><br/></td></tr>
+</table>
 <!---
 EtishaGarg/EtishaGarg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
