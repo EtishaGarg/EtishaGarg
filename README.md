@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @EtishaGarg
-- 👀 I’m interested in new technologies
-- 🌱 I’m currently exploring the depth of web space
-- 📫 How to reach me : gargetisha@gmail.com
+<h1 align="center">Hi 👋, I'm Etisha Garg</h1>
+<h3 align="center">A passionate developer from India, who is enthusiastic about Web Developement and Open-source</h3>
 
 <!---
 EtishaGarg/EtishaGarg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
