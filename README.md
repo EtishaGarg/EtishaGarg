@@ -16,7 +16,7 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://youtu.be/vmABD38bITY"><img width="140px" src="https://drive.google.com/file/d/16FcYVi66t2VBbI26oBa4trg9SCWkY10d/view?usp=sharing"></a></td>
+<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://youtu.be/vmABD38bITY"><img width="140px" src="https://i.ytimg.com/vi/vmABD38bITY/mqdefault.jpg"></a></td>
 <td><a href="https://youtu.be/vmABD38bITY">Git and GitHub Beginners Tutorial</a><br/></td></tr>
 </table>
 <!---
