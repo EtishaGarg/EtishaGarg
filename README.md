@@ -24,6 +24,10 @@
 <td><a href="https://youtu.be/j8C9NX4nQlI">How I Became a Software Engineer Without a Computer Science Degree</a><br/></td></tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EtishaGarg&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="EtishaGarg" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EtishaGarg&&theme=tokyonight" alt="EtishaGarg" /></p>
 <!---
 EtishaGarg/EtishaGarg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
