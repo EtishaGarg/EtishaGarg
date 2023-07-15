@@ -16,12 +16,26 @@
 ### Latest YouTube videos
 
 <table>
-<!-- YOUTUBE-VIDEOS-LIST:START --><tr><td><a href="https://youtu.be/vmABD38bITY"><img width="140px" src="https://i.ytimg.com/vi/vmABD38bITY/mqdefault.jpg"></a></td>
-<td><a href="https://youtu.be/vmABD38bITY">Git and GitHub Beginners Tutorial</a><br/></td></tr>
-<tr><td><a href="https://youtu.be/DGFzOn1ZNsk"><img width="140px" src="https://i.ytimg.com/vi/DGFzOn1ZNsk/mqdefault.jpg"></a></td>
-<td><a href="https://youtu.be/DGFzOn1ZNsk">How to learn to code FAST using ChatGPT ?</a><br/></td></tr>
-<tr><td><a href="https://youtu.be/j8C9NX4nQlI"><img width="140px" src="https://i.ytimg.com/vi/j8C9NX4nQlI/mqdefault.jpg"></a></td>
-<td><a href="https://youtu.be/j8C9NX4nQlI">How I Became a Software Engineer Without a Computer Science Degree</a><br/></td></tr>
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+  <tr>
+    <td><a href="https://youtu.be/Ck8yDvxB2OE"><img width="140px" src="https://i.ytimg.com/vi/Ck8yDvxB2OE/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/Ck8yDvxB2OE">What is Open Source & How to Contribute? | Beginners Guide</a><br/></td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/sMZdt_QNYCY"><img width="140px" src="https://i.ytimg.com/vi/sMZdt_QNYCY/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/sMZdt_QNYCY">Code Twitter Like Animation in Just 7 Mins</a><br/></td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/vmABD38bITY"><img width="140px" src="https://i.ytimg.com/vi/vmABD38bITY/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/vmABD38bITY">Git and GitHub Beginners Tutorial</a><br/></td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/DGFzOn1ZNsk"><img width="140px" src="https://i.ytimg.com/vi/DGFzOn1ZNsk/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/DGFzOn1ZNsk">How to learn to code FAST using ChatGPT ?</a><br/></td></tr>
+  <tr>
+    <td><a href="https://youtu.be/j8C9NX4nQlI"><img width="140px" src="https://i.ytimg.com/vi/j8C9NX4nQlI/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/j8C9NX4nQlI">How I Became a Software Engineer Without a Computer Science Degree</a><br/></td>
+  </tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
