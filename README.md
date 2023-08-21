@@ -18,16 +18,16 @@
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START -->
   <tr>
-    <td><a href="https://youtu.be/Ck8yDvxB2OE"><img width="140px" src="https://i.ytimg.com/vi/Ck8yDvxB2OE/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/Ck8yDvxB2OE">What is Open Source & How to Contribute? | Beginners Guide</a><br/></td>
-  </tr>
-  <tr>
-    <td><a href="https://youtu.be/sMZdt_QNYCY"><img width="140px" src="https://i.ytimg.com/vi/sMZdt_QNYCY/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/sMZdt_QNYCY">Code Twitter Like Animation in Just 7 Mins</a><br/></td>
+    <td><a href="https://youtu.be/G5YDmWNU_tc"><img width="140px" src="https://i.ytimg.com/vi/G5YDmWNU_tc/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/G5YDmWNU_tc">Tailwind CSS Crash Course 2023</a><br/></td>
   </tr>
   <tr>
     <td><a href="https://youtu.be/vSB0tZw0fVs"><img width="140px" src="https://i.ytimg.com/vi/vSB0tZw0fVs/mqdefault.jpg"></a></td>
     <td><a href="https://youtu.be/vSB0tZw0fVs">Building Airbnb Clone for Beginners | Tailwind CSS</a><br/></td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/Ck8yDvxB2OE"><img width="140px" src="https://i.ytimg.com/vi/Ck8yDvxB2OE/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/Ck8yDvxB2OE">What is Open Source & How to Contribute? | Beginners Guide</a><br/></td>
   </tr>
   <tr>
     <td><a href="https://youtu.be/vmABD38bITY"><img width="140px" src="https://i.ytimg.com/vi/vmABD38bITY/mqdefault.jpg"></a></td>
