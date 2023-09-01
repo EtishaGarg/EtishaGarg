@@ -34,8 +34,8 @@
     <td><a href="https://youtu.be/j8C9NX4nQlI">How I Became a Software Engineer Without a Computer Science Degree</a><br/></td>
   </tr>
   <tr>
-    <td><a href="https://youtu.be/vmABD38bITY"><img width="140px" src="https://i.ytimg.com/vi/vmABD38bITY/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/vmABD38bITY">Git and GitHub Beginners Tutorial</a><br/></td>
+    <td><a href="https://youtu.be/SPr-1cwVn1k"><img width="140px" src="https://i.ytimg.com/vi/SPr-1cwVn1k/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/SPr-1cwVn1k">How to Setup Tailwind CSS in VS Code?</a><br/></td>
   </tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
