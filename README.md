@@ -18,6 +18,10 @@
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START -->
   <tr>
+    <td><a href="https://youtu.be/6lnWjpZjPOM"><img width="140px" src="https://i.ytimg.com/vi/6lnWjpZjPOM/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/6lnWjpZjPOM">How to make a Responsive Navigation Bar using HTML & Tailwind CSS</a><br/></td>
+  </tr>
+  <tr>
     <td><a href="https://youtu.be/G5YDmWNU_tc"><img width="140px" src="https://i.ytimg.com/vi/G5YDmWNU_tc/mqdefault.jpg"></a></td>
     <td><a href="https://youtu.be/G5YDmWNU_tc">Tailwind CSS Crash Course 2023</a><br/></td>
   </tr>
@@ -26,16 +30,12 @@
     <td><a href="https://youtu.be/vSB0tZw0fVs">Building Airbnb Clone for Beginners | Tailwind CSS</a><br/></td>
   </tr>
   <tr>
-    <td><a href="https://youtu.be/Ck8yDvxB2OE"><img width="140px" src="https://i.ytimg.com/vi/Ck8yDvxB2OE/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/Ck8yDvxB2OE">What is Open Source & How to Contribute? | Beginners Guide</a><br/></td>
+    <td><a href="https://youtu.be/j8C9NX4nQlI"><img width="140px" src="https://i.ytimg.com/vi/j8C9NX4nQlI/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/j8C9NX4nQlI">How I Became a Software Engineer Without a Computer Science Degree</a><br/></td>
   </tr>
   <tr>
     <td><a href="https://youtu.be/vmABD38bITY"><img width="140px" src="https://i.ytimg.com/vi/vmABD38bITY/mqdefault.jpg"></a></td>
     <td><a href="https://youtu.be/vmABD38bITY">Git and GitHub Beginners Tutorial</a><br/></td>
-  </tr>
-  <tr>
-    <td><a href="https://youtu.be/j8C9NX4nQlI"><img width="140px" src="https://i.ytimg.com/vi/j8C9NX4nQlI/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/j8C9NX4nQlI">How I Became a Software Engineer Without a Computer Science Degree</a><br/></td>
   </tr>
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
