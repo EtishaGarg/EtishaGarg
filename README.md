@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/youtube/channel/subscribers/UCNliY-e1-7VNtuWgrSib1UQ?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Etisha Garg's YouTube channel"/>
   </a>
   <a href="https://www.linkedin.com/in/etisha-garg/">
-    <img src="https://img.shields.io/badge/follow-%40EtishaGarg%205k+-1DA1F2?label=LinkedIn&logo=linkedin&style=for-the-badge&color=blue" alt="Etisha Garg's LinkedIn"/>
+    <img src="https://img.shields.io/badge/follow-%40EtishaGarg%206k+-1DA1F2?label=LinkedIn&logo=linkedin&style=for-the-badge&color=blue" alt="Etisha Garg's LinkedIn"/>
   </a>
 </p>
 
