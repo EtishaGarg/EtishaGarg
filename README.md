@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi, I'm Etisha Garg</h1>
-<h3 align="center">A web developer, open-source enthusiast and a passionate content creator from India</h3>
+<h3 align="center">A self-taught iOS developer, open-source enthusiast and a passionate content creator from India</h3>
 
 <p align="center">
   <a href="https://twitter.com/GargEtisha">
@@ -18,10 +18,10 @@
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START -->
   <tr>
-    <td><a href="https://youtu.be/ppn7kBqGMUU"><img width="140px" src="https://i.ytimg.com/vi/ppn7kBqGMUU/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/ppn7kBqGMUU">Build a Job Portal Website: ReactJs, Tailwind CSS & Firebase</a><br/></td>
+    <td><a href="https://youtu.be/AH6bMfzX1LY"><img width="140px" src="https://i.ytimg.com/vi/AH6bMfzX1LY/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/AH6bMfzX1LY">GeometryReader in SwiftUI | Size and Coordinate Space</a><br/></td>
   </tr>
-  <tr>
+<!--   <tr>
     <td><a href="https://youtu.be/G5YDmWNU_tc"><img width="140px" src="https://i.ytimg.com/vi/G5YDmWNU_tc/mqdefault.jpg"></a></td>
     <td><a href="https://youtu.be/G5YDmWNU_tc">Tailwind CSS Crash Course 2023</a><br/></td>
   </tr>
@@ -36,7 +36,7 @@
   <tr>
     <td><a href="https://youtu.be/j8C9NX4nQlI"><img width="140px" src="https://i.ytimg.com/vi/j8C9NX4nQlI/mqdefault.jpg"></a></td>
     <td><a href="https://youtu.be/j8C9NX4nQlI">How I Became a Software Engineer Without a Computer Science Degree</a><br/></td>
-  </tr>
+  </tr> -->
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 </table>
 
