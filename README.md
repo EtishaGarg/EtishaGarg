@@ -18,26 +18,26 @@
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START -->
   <tr>
+    <td><a href="https://youtu.be/1k_Fe_s6bx0"><img width="140px" src="https://i.ytimg.com/vi/1k_Fe_s6bx0/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/1k_Fe_s6bx0">VisionOS Fundamentals You Need To Know</a><br/></td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/6Ibvt5W5FbA"><img width="140px" src="https://i.ytimg.com/vi/6Ibvt5W5FbA/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/6Ibvt5W5FbA">Build AI App in iOS using SwiftUI and Gemini</a><br/></td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/ofvTT1YYuUk"><img width="140px" src="https://i.ytimg.com/vi/ofvTT1YYuUk/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/ofvTT1YYuUk">How to make Animated Carousel in SwiftUI | iOS17</a><br/></td>
+  </tr>
+  <tr>
     <td><a href="https://youtu.be/AH6bMfzX1LY"><img width="140px" src="https://i.ytimg.com/vi/AH6bMfzX1LY/mqdefault.jpg"></a></td>
     <td><a href="https://youtu.be/AH6bMfzX1LY">GeometryReader in SwiftUI | Size and Coordinate Space</a><br/></td>
-  </tr>
-<!--   <tr>
-    <td><a href="https://youtu.be/G5YDmWNU_tc"><img width="140px" src="https://i.ytimg.com/vi/G5YDmWNU_tc/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/G5YDmWNU_tc">Tailwind CSS Crash Course 2023</a><br/></td>
-  </tr>
-  <tr>
-    <td><a href="https://youtu.be/_Y1mRI33TsM"><img width="140px" src="https://i.ytimg.com/vi/_Y1mRI33TsM/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/_Y1mRI33TsM">Personal Portfolio Website Using Only HTML And CSS (from scratch)</a><br/></td>
-  </tr>
-  <tr>
-    <td><a href="https://youtu.be/6YnryDjEGr8"><img width="140px" src="https://i.ytimg.com/vi/6YnryDjEGr8/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/6YnryDjEGr8">How to make Card Slider in React JS | React Slick</a><br/></td>
   </tr>
   <tr>
     <td><a href="https://youtu.be/j8C9NX4nQlI"><img width="140px" src="https://i.ytimg.com/vi/j8C9NX4nQlI/mqdefault.jpg"></a></td>
     <td><a href="https://youtu.be/j8C9NX4nQlI">How I Became a Software Engineer Without a Computer Science Degree</a><br/></td>
-  </tr> -->
-<!-- YOUTUBE-VIDEOS-LIST:END -->
+  </tr> 
+<!-- YOUTUBE-VIDEOS-LIST:END-->
 </table>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EtishaGarg&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="EtishaGarg" /></p>
