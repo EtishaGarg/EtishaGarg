@@ -30,8 +30,8 @@
     <td><a href="https://youtu.be/6Ibvt5W5FbA">Build AI App in iOS using SwiftUI and Gemini</a><br/></td>
   </tr>
   <tr>
-    <td><a href="https://youtu.be/ofvTT1YYuUk"><img width="140px" src="https://i.ytimg.com/vi/ofvTT1YYuUk/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/ofvTT1YYuUk">How to make Animated Carousel in SwiftUI | iOS17</a><br/></td>
+    <td><a href="https://youtu.be/fBbw6-Nu_lg"><img width="140px" src="https://i.ytimg.com/vi/fBbw6-Nu_lg/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/fBbw6-Nu_lg">How to use NavigationStack in SwiftUI?</a><br/></td>
   </tr>
   <tr>
     <td><a href="https://youtu.be/AH6bMfzX1LY"><img width="140px" src="https://i.ytimg.com/vi/AH6bMfzX1LY/mqdefault.jpg"></a></td>
