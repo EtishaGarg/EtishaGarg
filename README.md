@@ -18,6 +18,10 @@
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START -->
   <tr>
+    <td><a href="https://youtu.be/YR3PgwKKraw"><img width="140px" src="https://i.ytimg.com/vi/YR3PgwKKraw/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/YR3PgwKKraw">Unit Testing in iOS with XCTest</a><br/></td>
+  </tr> 
+  <tr>
     <td><a href="https://youtu.be/1k_Fe_s6bx0"><img width="140px" src="https://i.ytimg.com/vi/1k_Fe_s6bx0/mqdefault.jpg"></a></td>
     <td><a href="https://youtu.be/1k_Fe_s6bx0">VisionOS Fundamentals You Need To Know</a><br/></td>
   </tr>
@@ -33,10 +37,6 @@
     <td><a href="https://youtu.be/AH6bMfzX1LY"><img width="140px" src="https://i.ytimg.com/vi/AH6bMfzX1LY/mqdefault.jpg"></a></td>
     <td><a href="https://youtu.be/AH6bMfzX1LY">GeometryReader in SwiftUI | Size and Coordinate Space</a><br/></td>
   </tr>
-  <tr>
-    <td><a href="https://youtu.be/j8C9NX4nQlI"><img width="140px" src="https://i.ytimg.com/vi/j8C9NX4nQlI/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/j8C9NX4nQlI">How I Became a Software Engineer Without a Computer Science Degree</a><br/></td>
-  </tr> 
 <!-- YOUTUBE-VIDEOS-LIST:END-->
 </table>
 
