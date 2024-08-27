@@ -44,8 +44,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EtishaGarg&&theme=tokyonight" alt="EtishaGarg" /></p>
 
-### If you appreciate the work I do, do consider supporting me. Thank you!
-
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/EtishaaGarg)
 
 
