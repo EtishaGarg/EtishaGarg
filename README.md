@@ -2,7 +2,7 @@
 <h3 align="center">A self-taught iOS developer, open-source enthusiast and a passionate content creator from India</h3>
 
 <p align="center">
-  <a href="https://twitter.com/GargEtisha">
+  <a href="https://x.com/etishaagarg">
     <img src="https://img.shields.io/badge/follow-%40GargEtisha%206.5k+-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Etisha Garg's Twitter"/>
   </a>
   <a href="http://youtube.com/@EtishaGarg?sub_confirmation=1">
