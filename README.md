@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://x.com/etishaagarg">
-    <img src="https://img.shields.io/badge/follow-%40GargEtisha%20-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Etisha Garg's Twitter"/>
+    <img src="https://img.shields.io/badge/follow-%40etishaagarg%20-1DA1F2?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="Etisha Garg's Twitter"/>
   </a>
   <a href="http://youtube.com/@EtishaGarg?sub_confirmation=1">
   <img src="https://img.shields.io/youtube/channel/subscribers/UCNliY-e1-7VNtuWgrSib1UQ?style=for-the-badge&logo=youtube&label=Youtube&color=blue" alt="Etisha Garg's YouTube channel"/>
