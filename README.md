@@ -40,10 +40,6 @@
 <!-- YOUTUBE-VIDEOS-LIST:END-->
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EtishaGarg&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="EtishaGarg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EtishaGarg&&theme=tokyonight" alt="EtishaGarg" /></p>
-
 
 
 <!---
