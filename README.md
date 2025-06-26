@@ -1,5 +1,5 @@
 <h1 align="center">👋Hi, I'm Etisha Garg</h1>
-<h3 align="center">A self-taught iOS developer, open-source enthusiast and a passionate content creator from India</h3>
+<h3 align="center">A software developer, AI tinkerer and a passionate content creator</h3>
 
 <p align="center">
   <a href="https://x.com/etishaagarg">
