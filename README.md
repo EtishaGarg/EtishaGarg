@@ -18,25 +18,25 @@
 <table>
 <!-- YOUTUBE-VIDEOS-LIST:START -->
   <tr>
+    <td><a href="https://youtu.be/-JaDuzyZWOw"><img width="140px" src="https://i.ytimg.com/vi/-JaDuzyZWOw/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/-JaDuzyZWOw">Will Gemini CLI Replace Claude Code? The AI Battle</a><br/></td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/Kcjtkokr2iM"><img width="140px" src="https://i.ytimg.com/vi/Kcjtkokr2iM/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/Kcjtkokr2iM">Build an iOS app in MINUTES with Cursor AI</a><br/></td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/y5JW2iOUtXY"><img width="140px" src="https://i.ytimg.com/vi/y5JW2iOUtXY/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/y5JW2iOUtXY">I Tried Xcode 26 AI Coding Assistant - Here’s What I Found</a><br/></td>
+  </tr>
+  <tr>
+    <td><a href="https://youtu.be/JRkprvGAK0Y"><img width="140px" src="https://i.ytimg.com/vi/JRkprvGAK0Y/mqdefault.jpg"></a></td>
+    <td><a href="https://youtu.be/JRkprvGAK0Y">Is Claude Code The FASTEST Way to Code in 2025?</a><br/></td>
+  </tr>
+  <tr>
     <td><a href="https://youtu.be/YR3PgwKKraw"><img width="140px" src="https://i.ytimg.com/vi/YR3PgwKKraw/mqdefault.jpg"></a></td>
     <td><a href="https://youtu.be/YR3PgwKKraw">Unit Testing in iOS with XCTest</a><br/></td>
   </tr> 
-  <tr>
-    <td><a href="https://youtu.be/1k_Fe_s6bx0"><img width="140px" src="https://i.ytimg.com/vi/1k_Fe_s6bx0/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/1k_Fe_s6bx0">VisionOS Fundamentals You Need To Know</a><br/></td>
-  </tr>
-  <tr>
-    <td><a href="https://youtu.be/6Ibvt5W5FbA"><img width="140px" src="https://i.ytimg.com/vi/6Ibvt5W5FbA/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/6Ibvt5W5FbA">Build AI App in iOS using SwiftUI and Gemini</a><br/></td>
-  </tr>
-  <tr>
-    <td><a href="https://youtu.be/fBbw6-Nu_lg"><img width="140px" src="https://i.ytimg.com/vi/fBbw6-Nu_lg/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/fBbw6-Nu_lg">How to use NavigationStack in SwiftUI?</a><br/></td>
-  </tr>
-  <tr>
-    <td><a href="https://youtu.be/AH6bMfzX1LY"><img width="140px" src="https://i.ytimg.com/vi/AH6bMfzX1LY/mqdefault.jpg"></a></td>
-    <td><a href="https://youtu.be/AH6bMfzX1LY">GeometryReader in SwiftUI | Size and Coordinate Space</a><br/></td>
-  </tr>
 <!-- YOUTUBE-VIDEOS-LIST:END-->
 </table>
 
